@@ -1,3 +1,5 @@
 研究生阶段学习的笔记
 1.git
 2.cs231n
+creating a new branch is quick
+
